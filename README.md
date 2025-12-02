@@ -53,8 +53,8 @@ No installer, no configuration — it just works.
 5. **Cast votes**  
    Voters authenticate and cast ballots privately.
 
-6. **End election & export results**  
-   Final tallies are calculated and can be exported as files.
+6. **End election & print results**  
+   Final tallies are calculated. Print the result page or save as pdf.
 
 ---
 
