@@ -1,72 +1,79 @@
 # Abatow Basic
 
-**Offline-First E-Voting Software**
+**Offline E-Voting Software**
 
 **Version:** v1.0.0-Beta\
 **Developer:** Abatow Software
 
-Abatow Basic is a simple, secure, offline e-voting application designed
-for small organizations, schools, and community elections. It runs
-entirely on a single Windows device and stores all sensitive election
-data locally and encrypted.
+Abatow Basic is a free, offline, single-election electronic voting
+application built for small organizations, schools, clubs, unions, and
+community groups. It provides a simple and secure way to conduct
+elections on a local machine.
+
+Abatow Basic operates fully offline **except for one step**:\
+Internet is required **only when the user chooses to send the minimal
+tracking data** (number of voters, application version, anonymous client
+ID) by clicking **"I agree, Send."**\
+All other functions remain completely offline.
 
 ------------------------------------------------------------------------
 
 ## 🚀 Key Features
 
--   100% Offline -- No internet required\
--   Local Encryption -- Protects election data\
--   One Election at a Time -- Simple and focused\
--   Lightweight -- Download, extract, run\
--   Minimal Data Collection -- No personal data\
--   Free to Use -- Ideal for communities
+-   Offline election creation and voting\
+-   Internet required **only** when sending consented tracking data\
+-   Stores all election data locally\
+-   Single-election mode for simplicity\
+-   Free for community use\
+-   Easy to use: download, extract, run
 
 ------------------------------------------------------------------------
 
 ## 📥 Download
 
-Get the latest version from the **Releases** page.
+Download the latest version from the **Releases** page.
 
-**How to Run:** 1. Download and extract the ZIP\
-2. Open the folder\
-3. Run `abatow basic.exe`
+### How to Run:
 
-If Windows warns about the file: - Right-click → Properties → check
-**Unblock** → Apply
+1.  Download and extract the ZIP\
+2.  Open the folder\
+3.  Run `abatow basic.exe`
+
+If Windows shows a security warning: - Right‑click the file → Properties
+→ **Unblock** → Apply
 
 ------------------------------------------------------------------------
 
-## 🔒 Privacy & Security
+## 🔒 Privacy & Tracking
 
--   Sensitive data is **encrypted locally**\
--   No cloud sync\
--   No internet communication\
--   Only non-sensitive assets remain unencrypted
+Abatow Basic stores all election data **locally** on the user's device.
+
+The **only** time the software uses the internet is when the user
+clicks:\
+**"I agree, Send."**
+
+At that moment, the following is sent: - Number of voters in the
+election\
+- Application version\
+- Anonymous client ID
+
+No ballots, results, candidate information, or any sensitive data are
+ever transmitted.
 
 ------------------------------------------------------------------------
 
 ## 🖥 System Requirements
 
--   Windows 10 / 11\
--   \~200MB free space\
--   No internet required
+-   Windows 10 or Windows 11\
+-   \~200MB free disk space\
+-   Internet required **only** for sending tracking consent
 
 ------------------------------------------------------------------------
 
-## 📝 Usage Overview
-
-1.  Launch the app\
-2.  Create an election\
-3.  Add candidates\
-4.  Start voting\
-5.  Export results
-
-------------------------------------------------------------------------
-
-## 🧪 Beta Version Notice
+## 🧪 Beta Notice
 
 This is the first public beta release.\
-Please report issues via the **Issues** page.
+Please report issues through the **Issues** page.
 
 ------------------------------------------------------------------------
 
@@ -77,13 +84,13 @@ Abatow Basic is free to use but provided *as-is* and *at your own risk*.
 
 ------------------------------------------------------------------------
 
-## 🤝 Contributing & Feedback
+## 🤝 Contributions
 
-This repository is only for binary releases and issue reporting.\
+This repository is for binary releases and issue reporting only.\
 Pull requests are not accepted.
 
 ------------------------------------------------------------------------
 
 ## 📬 Contact
 
-For help or questions, use the **Issues** page.
+For support or feedback, please use the **Issues** page.
