@@ -1,0 +1,63 @@
+Abatow Basic Software License Agreement
+
+Version: 1.0
+Software: Abatow Basic
+Owner: Abatow Software
+
+------------------------------------------------------------------------
+
+1. Grant of Use
+
+Abatow Software grants you a free, non-exclusive, non-transferable
+license to use the Abatow Basic software as-is for personal,
+educational, organizational, and community elections.
+
+This license does not permit redistribution, modification, resale, or
+reverse engineering of the software.
+
+2. Ownership
+
+Abatow Software retains all rights, title, and interest in the Abatow
+Basic software, including all intellectual property rights. This
+software is not open source.
+
+3. Restrictions
+
+You may not: - Modify, decompile, reverse engineer, or attempt to access
+the source code. - Redistribute, sublicense, or sell the software. -
+Remove or alter any copyright notices.
+
+4. Free-to-Use Notice
+
+Abatow Basic is provided free of charge for legitimate election-related
+use. Abatow Software may release paid or expanded versions in the
+future.
+
+5. Disclaimer of Warranty
+
+The software is provided “AS IS”, WITHOUT WARRANTY OF ANY KIND, express
+or implied, including but not limited to the warranties of: -
+merchantability, - fitness for a particular purpose, - accuracy, -
+reliability, - and non-infringement.
+
+You use this software entirely at your own risk.
+
+6. Limitation of Liability
+
+In no event shall Abatow Software be liable for any damages, losses, or
+issues arising from the use or inability to use the software, including
+but not limited to: - loss of data, - election misconfiguration, -
+inaccurate results, - or any other consequential or incidental damages.
+
+7. Updates
+
+Abatow Software may provide updates or improvements at its discretion.
+Nothing in this agreement obligates Abatow Software to continue
+development or support.
+
+8. Acceptance
+
+By downloading, installing, or using Abatow Basic, you acknowledge that
+you have read, understood, and agree to be bound by this license.
+
+© Abatow Software. All Rights Reserved.
